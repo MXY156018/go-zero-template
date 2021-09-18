@@ -1,0 +1,9 @@
+Name: go-zero-template-api
+Host: 0.0.0.0
+Port: 8888
+Mysql:
+  SqlDns: root:123456@tcp(127.0.0.1:3306)/web_mocha?charset=utf8&parseTime=True&loc=Local
+
+Auth:
+  AccessSecret: ad879037-c7a4-4063-9236-6bfc35d54b7d
+  AccessExpire: 86400
